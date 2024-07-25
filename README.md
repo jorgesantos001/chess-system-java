@@ -1,8 +1,8 @@
-## Chess Game - Jogo de Xadrez
+# Chess Game - Jogo de Xadrez
 
 This is a simple chess game implemented in Java. It includes basic functionalities for setting up the chessboard, placing pieces, and handling piece movements.
 
-# Features
+## Features
 
 Chessboard setup with 8x8 grid.
 
