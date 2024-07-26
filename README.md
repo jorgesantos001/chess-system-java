@@ -8,6 +8,6 @@ Chessboard setup with 8x8 grid.
 
 Piece placement with basic validation.
 
-Different types of pieces (King, Rook) with their respective representations (K, R).
+Different types of pieces (King, Rook) with their respective representations.
 
 Support for two players represented by colors: Black and White.
