@@ -47,6 +47,8 @@ This is a chess game implemented in Java. The project includes the standard ches
 2. **Navigate to the project directory:**
 
 3. **Navigate to the 'bin' directory:**
+
+  Open ´bash´ in this directory
    
 4. **Run the application:**
    
