@@ -41,10 +41,16 @@ This is a chess game implemented in Java. The project includes the standard ches
 ## Compilation and Execution
 
 1. **Clone the repository:**
+ 
+  git clone https://github.com/jorgesantos001/chess-system-java.git
 
-   ```bash
+2. **Navigate to the project directory:**
 
-git clone https://github.com/jorgesantos001/chess-system-java.git
+3. **Navigate to the 'bin' directory:**
+   
+4. **Run the application:**
+   
+   java application/Program
 
 ## Description of Pieces
 
